@@ -1,4 +1,4 @@
-# Crypto Wallet
+# Fintech_Finder
 
 ### Validation of transaction
 ![text](https://github.com/nssensalo/Challenge_19/blob/main/images/Screenshot%20(214).png)
